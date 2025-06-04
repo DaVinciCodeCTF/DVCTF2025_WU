@@ -1,0 +1,1 @@
+FLAG=b"DVCTF{S1d3_Ch4nn3l_4tt4ck_0n_Pr1me_G3n3r4t0r}"
