@@ -3,8 +3,11 @@
 ## Infos
 
 Objective: Chunk Norris never lies, it's the truth that's wrong.
+
 Difficulty: Hard
+
 Category: Steganography
+
 Flag : DVCTF{cHUnK_N0Rr15!}
 
 # SOLUTION
